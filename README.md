@@ -6,7 +6,7 @@ Jest Mocking
 
 1. Initialize project folder using `create-react-app`.
 ```
-npx create-react-app you-folder-name
+npx create-react-app your-folder-name
 ```
 
 2. Install `axios` as dependency
